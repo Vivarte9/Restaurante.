@@ -1,0 +1,36 @@
+body{
+    background: url(./Imagenscomprimidas/flat-lay-2583213_1280.jpg) top center fixed ;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        height: 696px;
+        width: 100%;
+        z-index: -2;
+}
+.Circulo {
+     width: 200px;
+     Height:auto ;
+     Border-radius: 50%;
+    	}
+                .Circulo2 {
+                    width: 135px;
+                    Height: auto;
+                    Border-radius: 50%;
+                }
+#menu   
+    :hover{
+    color: brown;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+   
+}
+.back-to-top :hover{
+    background-color: antiquewhite;
+    border-radius: 50%;
+}
