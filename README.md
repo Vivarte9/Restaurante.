@@ -1,2 +1,2 @@
 # Restaurante
- Site realizado com inti«uito de treino de habilidades.
+ Site realizado com intuito de treino de habilidades HTML, CSS e Bootstrap.
